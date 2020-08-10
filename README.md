@@ -2,6 +2,7 @@
 
 * Ce projet a été réalisé lors de la formation "Data Science - Essentials" (Jedha Bootcamp).
 * Il consiste à estimer le prix d'un appartement à Paris à partir des données publiques.
+* Veuillez remarquer que le projet a été développé sur Google Colab Notebooks (le chargement du dataset a été effectué directement depuis Google Drive)
 
 ## Source des données
 * Source de données : https://www.data.gouv.fr/en/datasets/demandes-de-valeurs-foncieres/
